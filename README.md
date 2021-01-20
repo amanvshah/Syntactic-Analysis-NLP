@@ -1,1 +1,2 @@
 # Syntactic-Analysis-NLP
+Used Treebank dataset of NLTK with the 'universal' tagset. Wrote Viterbi algorithm for assigning POS tags (i.e. without dealing with unknown words). Solved the problem of unknown words using at least two techniques. Compared the tagging accuracy after making these modifications with the original Viterbi algorithm. Evaluated the model on the test file. Listed down few cases from the sample test file (i.e. unknown word-tag pairs) which were incorrectly tagged by the original Viterbi POS tagger and got corrected after your modifications.
